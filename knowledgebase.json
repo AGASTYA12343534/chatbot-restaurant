@@ -1,0 +1,2324 @@
+[
+  {
+    "name": "Kake Di Hatti",
+    "menu_items": [
+      {
+        "name": "ThalisAmritsari Thali",
+        "description": "Thalis",
+        "price": 262.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Kdh Thalis",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Amritsari Thali",
+        "description": "Chole + Rice + Raita + Amritsari Kulcha Medium Size + Salad.",
+        "price": 262.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Kdh Thalis",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Kdh Thali",
+        "description": "BESTSELLER",
+        "price": 101.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Kdh Thalis",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "StartersChole Kulcha Pockets",
+        "description": "Starters",
+        "price": 209.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Starters",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Chole Kulcha Pockets",
+        "description": "Amritsari Chole Stuffed In Kulcha.",
+        "price": 209.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Starters",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Veg Mayonnaise Sandwich",
+        "description": "",
+        "price": 188.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Starters",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "DalDal Fry",
+        "description": "Dal",
+        "price": 283.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Main Course",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Dal Fry",
+        "description": "",
+        "price": 283.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Main Course",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Pindi Masala",
+        "description": "",
+        "price": 283.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Main Course",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "RotiMissi Onion",
+        "description": "Roti",
+        "price": 115.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Breads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Missi Onion",
+        "description": "",
+        "price": 115.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Breads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Tawa Roti",
+        "description": "",
+        "price": 41.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Breads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Kake Singature Naan Roll",
+        "description": "Cottage Cheese Marinated In Spices, Grilled In Tandoor With Classic Butter Naan.",
+        "price": 209.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Kake Naan Rolls",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Paneer Tikka Roll",
+        "description": "",
+        "price": 209.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Kake Naan Rolls",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Kathi Roll",
+        "description": "Delicious Wraps Or Rolls Stuffed With A Spiced Mix Veg Stuffing.",
+        "price": 209.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Kake Naan Rolls",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Tandoori Platter",
+        "description": "Made In Tandoor Kdh Special North Indian Platter.",
+        "price": 409.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Platters",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Chinese Platter",
+        "description": "Chinese Platter With Pan Asia Delicacies.",
+        "price": 409.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Platters",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Kebab Platter",
+        "description": "Dahi Kebab, Rajma Galouti, Seekh Kebab.",
+        "price": 409.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Platters",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Handi Chole",
+        "description": "",
+        "price": 367.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Kdh Tandoori Handi",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Handi Dal Tadka",
+        "description": "",
+        "price": 409.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Kdh Tandoori Handi",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Handi Mughlai Paneer Handi",
+        "description": "",
+        "price": 482.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Kdh Tandoori Handi",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Plain Rice",
+        "description": "",
+        "price": 136.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Rice And Pulao",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Matar Pulao",
+        "description": "",
+        "price": 209.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Rice And Pulao",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Khichri",
+        "description": "",
+        "price": 209.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Rice And Pulao",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Plain Curd",
+        "description": "",
+        "price": 104.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Raita And Papad",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Boondi Raita",
+        "description": "",
+        "price": 115.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Raita And Papad",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Fruit Raita",
+        "description": "",
+        "price": 188.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Raita And Papad",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Alfredo Pasta",
+        "description": "Cream Cheese, Whole Milk, Cracked Pepper.",
+        "price": 335.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Pastas",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "NoodlesChilly Garlic Noodles",
+        "description": "Noodles",
+        "price": 241.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Chineese",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Chilly Garlic Noodles",
+        "description": "Noodles Made With Spicy Schezwan Sauce.",
+        "price": 241.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Chineese",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Schezwan Noodles",
+        "description": "Flavourful Noodles Tossed With Vegetables.",
+        "price": 241.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Chineese",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "SaladOnion Salad",
+        "description": "Salad",
+        "price": 104.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Soups And Salads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Onion Salad",
+        "description": "",
+        "price": 104.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Soups And Salads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Garden Fresh Salad",
+        "description": "Homemade Dressing, Cherry Tomatoes, Bell Pepper, Spinach, Green Olives.",
+        "price": 115.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Soups And Salads",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Baked Lasagnia",
+        "description": "",
+        "price": 472.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Baked",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Baked Pasta",
+        "description": "",
+        "price": 472.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Baked",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Cold BeveragesCold Coffe",
+        "description": "Cold Beverages",
+        "price": 241.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Drinks (Beverages)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Cold Coffe",
+        "description": "",
+        "price": 241.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Drinks (Beverages)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Salted Lassi",
+        "description": "",
+        "price": 157.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Drinks (Beverages)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Butterscotch Ice Cream",
+        "description": "",
+        "price": 157.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Ice Cream",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Vanilla Ice Cream",
+        "description": "",
+        "price": 157.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Ice Cream",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Fresh Lime Soda",
+        "description": "Soda Water, Lemo Juice, Kala Namak, Sugar, Mint Leaves.",
+        "price": 209.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Mocktail Bar",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Virgin Colada",
+        "description": "Unsweetened Coconut Milk, Pineapple Juice, Maraschino Cherry.",
+        "price": 209.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Mocktail Bar",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Virgin Mojito",
+        "description": "Lime,Blueberry Syrup, Sugar, Fresh Mint.",
+        "price": 209.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Mocktail Bar",
+          "spice_level": 1
+        }
+      }
+    ],
+    "dietary_options": [
+      "Veg"
+    ],
+    "price_range": "₹950 for two people (approx.)",
+    "address": "Shop 11, Ground Floor, Urbanac Business Park, Vibhuti Khand, Gomti Nagar, Lucknow, Gomti Nagar, Lucknow, Lucknow, 226010, India",
+    "opening_hours": "Opens at 11:15am",
+    "image_url": "https://b.zmtcdn.com/data/pictures/3/20013423/7bf0dcd1d3c7fc17badc86999cb16d1f.jpeg",
+    "phone_number": "+916388573086",
+    "rating": "3.8",
+    "rating_count": 342,
+    "features": "Cash and Cards accepted\nDigital payments accepted",
+    "cuisine": "Chinese, North Indian, Pizza, Italian, Desserts, Beverages"
+  },
+  {
+    "name": "Ice Cream Sundae, Shakes And More",
+    "menu_items": [
+      {
+        "name": "Brownie Sundae with Chocolate Sauce [1 Jar]",
+        "description": "BESTSELLER",
+        "price": 200.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Sundae",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Traffic Jam Sundae [1 Jar]",
+        "description": "BESTSELLER",
+        "price": 270.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Sundae",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Mango Sundae [1 Jar]",
+        "description": "BESTSELLER",
+        "price": 325.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Sundae",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "ThickshakesVanilla Thickshake",
+        "description": "Thickshakes",
+        "price": 200.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Shakes",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Vanilla Thickshake",
+        "description": "",
+        "price": 200.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Shakes",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Strawberry Thickshake",
+        "description": "",
+        "price": 200.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Shakes",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Royal Falooda",
+        "description": "",
+        "price": 180.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Desserts",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Kesar Kulfi Falooda",
+        "description": "",
+        "price": 180.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Desserts",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Premium Fruit Falooda",
+        "description": "",
+        "price": 275.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Desserts",
+          "spice_level": 1
+        }
+      }
+    ],
+    "dietary_options": [
+      "Veg"
+    ],
+    "price_range": "₹500 for two people (approx.)",
+    "address": "Shop 66, Hazratganj Market, Hazratganj, Lucknow, Hazratganj, Lucknow, Lucknow, 226001, India",
+    "opening_hours": "Opens at 12noon",
+    "image_url": "https://b.zmtcdn.com/data/pictures/3/19583783/f41a4bd735a768fdbe4bd9d64d135b05.jpg",
+    "phone_number": "+918318113509",
+    "rating": "4.0",
+    "rating_count": 33,
+    "features": "\nDigital payments accepted",
+    "cuisine": "Ice Cream, Desserts, Beverages"
+  },
+  {
+    "name": "The Pebbles Bistro & Bar",
+    "menu_items": [
+      {
+        "name": "Chicken Steak Sizzler",
+        "description": "Chicken breast grilled to perfection with pepper and mushroom sauce.",
+        "price": 425.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Sizzlers",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Veg SoupsVeg Sweet Corn Soup",
+        "description": "Veg Soups",
+        "price": 145.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Soups and Salads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Veg Sweet Corn Soup",
+        "description": "",
+        "price": 145.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Soups and Salads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Veg Hot and Sour Soup",
+        "description": "",
+        "price": 145.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Soups and Salads",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Indian AppetizersTandoori Mushroom",
+        "description": "Indian Appetizers",
+        "price": 255.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Appetizers",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Tandoori Mushroom",
+        "description": "Mushroom marinated in yogurt, stuffed with cheese.",
+        "price": 255.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Appetizers",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Hara Bhara Kabab",
+        "description": "Cutlet made from spinach, vegetable and potato deep fried and served with mint ...read more",
+        "price": 255.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Appetizers",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Indian Main CourseAloo Jeera",
+        "description": "Indian Main Course",
+        "price": 245.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Main Course",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Aloo Jeera",
+        "description": "",
+        "price": 245.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Main Course",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Hing Dhaniya ke Aloo",
+        "description": "",
+        "price": 245.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Main Course",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "",
+        "price": 35.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Breads",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Butter Roti",
+        "description": "",
+        "price": 45.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Breads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Lachha Paratha",
+        "description": "",
+        "price": 55.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Breads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Subz Dum Biryani",
+        "description": "",
+        "price": 265.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Rice and Biryani",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Steamed Rice",
+        "description": "",
+        "price": 225.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Rice and Biryani",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Jeera Rice",
+        "description": "",
+        "price": 250.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Rice and Biryani",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Veg Fried Rice",
+        "description": "",
+        "price": 235.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Fried Rice and Noodles",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Veg Hakka Noodles",
+        "description": "",
+        "price": 235.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Fried Rice and Noodles",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Veg Chilli Garlic Noodles",
+        "description": "",
+        "price": 239.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Fried Rice and Noodles",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "PizzaItaliano Margherita Pizza",
+        "description": "Pizza",
+        "price": 225.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Pizza and Pasta",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Italiano Margherita Pizza",
+        "description": "Most famous and most popular pizza topped with mozzarella cheese and tomato sauce.",
+        "price": 225.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Pizza and Pasta",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Veg Supremo Pizza",
+        "description": "Mushrooms, black olives, bell peppers, onions, mozzarella cheese and tomato sauce.",
+        "price": 225.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Pizza and Pasta",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "BurgersThousand Island Cottage Cheese Burger",
+        "description": "Burgers",
+        "price": 215.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Burgers and Sandwiches",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Thousand Island Cottage Cheese Burger",
+        "description": "Toasted burger filled with deep fried cottage cheese patty and thousand Island spread.",
+        "price": 215.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Burgers and Sandwiches",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Top Up Chicken Cheese Burger",
+        "description": "Burger filled with lots of cheese and grilled chicken gratinated with cheese.",
+        "price": 225.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Burgers and Sandwiches",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Continental DishesBaked Vegetable",
+        "description": "Continental Dishes",
+        "price": 275.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Continental",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Baked Vegetable",
+        "description": "",
+        "price": 275.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Continental",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Cottage Cheese Shashlik",
+        "description": "Cottage cheese on bed of rice, served with tomato sauce and vegetables.",
+        "price": 289.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Continental",
+          "spice_level": 1
+        }
+      }
+    ],
+    "dietary_options": [
+      "Non-Veg",
+      "Veg"
+    ],
+    "price_range": "₹1,200 for two people (approx.)",
+    "address": "1/208 A, Vineet Khand, Opposite Jaipuria School, Gomti Nagar, Lucknow, Gomti Nagar, Lucknow, Lucknow, 226010, India",
+    "opening_hours": "Opens at 12noon",
+    "image_url": "https://b.zmtcdn.com/data/pictures/1/18385021/83ee26945c9ab13804358f97d4accba1.jpg",
+    "phone_number": "+915224953641",
+    "rating": "4.1",
+    "rating_count": 617,
+    "features": "Cash and Cards accepted",
+    "cuisine": "European, North Indian, Sandwich, Salad, Burger, Street Food, Desserts, Beverages"
+  },
+  {
+    "name": "Fo'sho - Pan Asian & Italian Bistro",
+    "menu_items": [
+      {
+        "name": "Classic Caesar Salad",
+        "description": "Crisp Romaine Lettuce Tossed In A Creamy Garlic Dressing, Topped With Crunchy Croutons, ...read more",
+        "price": 429.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Salads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Classic Pesto Chicken Salad",
+        "description": "Sliced chicken, cherry tomatoes, lettuce greens, micro greens with pesto and parmesan cheese ...read more",
+        "price": 449.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Salads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Fo’sho Special",
+        "description": "Mixed lettuce greens, cherry tomatoes, cucumber, broccoli, avocado, feta cheese, super seeds and ...read more",
+        "price": 399.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Salads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Classic Man Chow Soup",
+        "description": "Comforting indo chinese soup in a soy broth.",
+        "price": 289.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Soups",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Veg Clear Wonton Soup",
+        "description": "Delicate stuffed wontons in flavourful broth with herbs and vegetables.",
+        "price": 289.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Soups",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Crème Fungi",
+        "description": "Fo shos take on the crowd favourite cream of mushroom soup.",
+        "price": 289.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Soups",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Asian Chilli Fish",
+        "description": "Crispy fish fillets tossed with bell peppers, chilli paste, ketchup and hoisin sauce ...read more",
+        "price": 589.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Small Plates (Asian)",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Asian Pickled Pepper Chicken",
+        "description": "Tender chicken pieces with ginger, garlic, onion, jalapeno and bell peppers with zesty ...read more",
+        "price": 529.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Small Plates (Asian)",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Chicken Taipei Style",
+        "description": "Crispy Fried Tender Chicken Tossed With Onions And Chilli Oil Finished With Lemon ...read more",
+        "price": 529.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Small Plates (Asian)",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Arancini Pomodoro",
+        "description": "Tomato base risotto stuffed with cheese.",
+        "price": 369.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Small Plates (Italian)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Avocado Toast",
+        "description": "Chunky guacamole on perfectly toasted bread, sprinkled with a touch of salt and ...read more",
+        "price": 379.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Small Plates (Italian)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Cheese Garlic Bread",
+        "description": "Toasted Bread Smothered In A Butrying Garlic Spread And Topped With Melted Cheese.",
+        "price": 349.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Small Plates (Italian)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Chicken Basil Dim Sum",
+        "description": "6 Pcs Juicy chicken and vegetable filling, wrapped in delicate dumpling skin.",
+        "price": 4996.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Dim Sums | Gyoza",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Chicken Sui Mai Dimsum",
+        "description": "6 Pcs Open faced steamed dumplings filled with minced chicken and vegetables.",
+        "price": 4996.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Dim Sums | Gyoza",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Cottage Cheese Dim Sum",
+        "description": "6 Pcs Delicate light dumplings filled with a creamy cottage cheese mixture.",
+        "price": 4296.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Dim Sums | Gyoza",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Crispy Chicken Cheung Fun",
+        "description": "Tender rice rolls wrapped around crispy chicken, served with a tangy dipping sauce.",
+        "price": 549.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Cheung Fun",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Roasted Vegetable Cheung Fun",
+        "description": "Silky rice noodle rolls stuffed with a medley of roasted vegetables, served with ...read more",
+        "price": 499.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Cheung Fun",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Spicy Crispy Prawn Cheung Fun",
+        "description": "Flavoursome rice rolls with crispy prawns, infused with a spicy sauce",
+        "price": 599.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Cheung Fun",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Asparagus Tempura Sushi",
+        "description": "8 Pcs Tempura asparagus, toasted seeds, wasabi mayo",
+        "price": 6798.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Sushi",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Avocado Cream Cheese Sushi",
+        "description": "8 Pcs Tempura avocado and cream cheese.",
+        "price": 6798.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Sushi",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Cottage Cheese Tempura Sushi",
+        "description": "8 Pcs Togarashi cottage cheese tempura, spicy mayo",
+        "price": 6298.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Sushi",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Katsu Chicken Bao",
+        "description": "3 Pcs",
+        "price": 5993.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Baos & Buns",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Korean Chicken Bao",
+        "description": "3 Pcs",
+        "price": 5993.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Baos & Buns",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Shitake Bao",
+        "description": "3 Pcs",
+        "price": 5193.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Baos & Buns",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Chicken Yakitori",
+        "description": "Marinated chicken cooked on the table to perfection.",
+        "price": 689.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Grills",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Indonesian Satay",
+        "description": "",
+        "price": 589.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Grills",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Java Grilled Fish",
+        "description": "Succulent Fish Marinated In Aromatic Spices And Grilled On A Traditional With Sambal ...read more",
+        "price": 699.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Grills",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Spicy Korean Ramen",
+        "description": "",
+        "price": 589.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Ramens",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Thai Peanut Sriracha Ramen",
+        "description": "Spicy, tangy broth with a hint of peanut",
+        "price": 589.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Ramens",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Wild Mushroom-miso Ramen",
+        "description": "",
+        "price": 589.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Ramens",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Green Thai Curry",
+        "description": "A fragrant curry with green chillies, coconut milk, vegetables and fresh herbs served ...read more",
+        "price": 519.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Curries",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Japanese Katsu Curry",
+        "description": "Breaded protein with a rich curry flavour served with steamed rice.",
+        "price": 549.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Curries",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Khow Suey",
+        "description": "A creamy coconut based soup with noodles and an array of toppings.",
+        "price": 519.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Curries",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Asian Greens & Tofu",
+        "description": "Bok choy, zucchini, beans, asparagus and tofu in burnt garlic sauce",
+        "price": 549.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Main Course Veg",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Bento Box Veg",
+        "description": "",
+        "price": 410.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Main Course Veg",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Exotic Chilli Basil Veggies",
+        "description": "A vibrant stir fry of fresh vegetables with aromatic basil and spicy chilli",
+        "price": 549.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Main Course Veg",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Bento Box Chicken",
+        "description": "",
+        "price": 485.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Main Course (Chicken/ Lamb)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Chicken In Smoked Chilli Sauce",
+        "description": "Tender chicken pieces simmered in a smoky, spicy chilli sauce for a deep, ...read more",
+        "price": 629.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Main Course (Chicken/ Lamb)",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Fo’sho Favorite Chicken With Roasted Peanuts",
+        "description": "Tender chicken with roasted peanuts simmered in a bold signature spices and herbs.",
+        "price": 629.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Main Course (Chicken/ Lamb)",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Bento Box Seafood",
+        "description": "",
+        "price": 565.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Main Course (Seafood)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Fish In (black Pepper Sichuan Chilli Hot Garlic Sauce)",
+        "description": "Slow fried fish fillets in black pepper lemon chilli garlic sauce",
+        "price": 699.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Main Course (Seafood)",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Fish In Chilli Basil Sauce",
+        "description": "Tender fish fillets saut",
+        "price": 699.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Main Course (Seafood)",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Blue Pea Jasmine Rice",
+        "description": "Fragrant jasmine rice infused with the natural color and subtle floral taste of ...read more",
+        "price": 499.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Staples",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Burnt Chilli Garlic NoodlesBESTSELLER",
+        "description": "Stir-fried noodles with tender chicken, spiced with burnt garlic and chili for a ...read more",
+        "price": 329.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Staples",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Burnt Garlic Rice",
+        "description": "Fried rice with juicy chicken, enhanced by the deep flavor of toasted burnt ...read more",
+        "price": 399.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Staples",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Aglio-E-Olio Pasta",
+        "description": "",
+        "price": 499.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Pasta",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Fettuccini Pesto Genovese Pasta",
+        "description": "Fettuccini in creamy pesto sauce.",
+        "price": 419.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Pasta",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Katsu Chicken With Gnocchi Pasta",
+        "description": "Panko crumbed chicken breast, topped with homemade gnocchi and smoked tomato sauce.",
+        "price": 479.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Pasta",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Classic Margherita Pizza",
+        "description": "Regular",
+        "price": 419.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Pizza",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Fungi Pizza",
+        "description": "Regular",
+        "price": 479.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Pizza",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Pesto Pizza",
+        "description": "Regular",
+        "price": 449.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Pizza",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Coconut Caramel CustardBESTSELLER",
+        "description": "[Veg preparation] A rich, creamy custard with tropical coconut and decadent caramel.",
+        "price": 299.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Desserts",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Darsaan",
+        "description": "Honey tossed fried wonton sheets with vanilla ice cream.",
+        "price": 299.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Desserts",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Tres LechesBESTSELLER",
+        "description": "Dessert made with a light sponge cake soaked in a blend of three ...read more",
+        "price": 349.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Desserts",
+          "spice_level": 1
+        }
+      }
+    ],
+    "dietary_options": [
+      "Veg",
+      "Non-Veg"
+    ],
+    "price_range": "₹1,500 for two people (approx.)",
+    "address": "11, Habibullah Estate, Hazratganj, Lucknow, Hazratganj, Lucknow, Lucknow, 226001, India",
+    "opening_hours": "Opens at 12:15pm",
+    "image_url": "https://b.zmtcdn.com/data/pictures/3/21376323/bc4f656b8bfbef66a3d7557a629e3bfd.jpg",
+    "phone_number": "+917753851777",
+    "rating": "4.4",
+    "rating_count": 373,
+    "features": "",
+    "cuisine": "Asian, Italian, Japanese, Korean"
+  },
+  {
+    "name": "Tanatan",
+    "menu_items": [
+      {
+        "name": "Veg Platter",
+        "description": "Season broccoli, parmesan-crusted baby aloo, hare matar ki sikhampuri, turmeric, and ajwain paneer ...read more",
+        "price": 1088.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Platters",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Non Veg Platter",
+        "description": "Peshawari Murgh Tikka+Nawabi Murgh Tikka+Galawat Kebab+Raunak E Seekh",
+        "price": 1209.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Platters",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Veg SoupsRoasted Veggies in a Curry Leaf Lemongrass Broth",
+        "description": "Veg Soups",
+        "price": 339.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Soups and Salad",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Roasted Veggies in a Curry Leaf Lemongrass Broth",
+        "description": "Veggie delight. Roasted Veggies in a Curry Leaf Lemongrass Broth is a fragrant ...read more",
+        "price": 339.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Soups and Salad",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Kaffir Lime Roasted Tomato RasamSPICY",
+        "description": "Kaffir Lime Roasted Tomato Rasam is a tangy, aromatic South Indian soup made ...read more",
+        "price": 339.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Soups and Salad",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Veg StartersSarson Broccoli",
+        "description": "Veg Starters",
+        "price": 446.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Starters",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Sarson Broccoli",
+        "description": "Broccoli marinated in smoked mustard oil finished with kasundi.",
+        "price": 446.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Starters",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Bharwa Mirch Achari Paneer",
+        "description": "Cottage cheese stuffed with dry fruits and pickled spices.",
+        "price": 487.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Starters",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Veg Main CourseLehsuni Palak Paneer",
+        "description": "Veg Main Course",
+        "price": 516.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Main Course",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Lehsuni Palak Paneer",
+        "description": "Lehsuni Palak Paneer is a rich, flavorful dish where paneer cubes are cooked ...read more",
+        "price": 516.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Main Course",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Mushroom Green Peas Gassi",
+        "description": "Mushroom Green Peas Gassi is a flavorful Mangalorean curry made with tender mushrooms ...read more",
+        "price": 501.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Main Course",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Plain Kulcha",
+        "description": "Plain Kulcha is a soft, fluffy leavened flatbread, traditionally baked in a tandoor, ...read more",
+        "price": 127.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Breads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "A charred whole wheat flour Indian bread that is soft and can be ...read more",
+        "price": 99.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Breads",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Khamiri Roti",
+        "description": "[veg preparation] Khamiri Roti is a soft, yeasted flatbread with a slightly tangy ...read more",
+        "price": 132.0,
+        "attributes": {
+          "veg_nonveg": "Non-Veg",
+          "category": "Breads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "RiceGhee Bhat",
+        "description": "Rice",
+        "price": 293.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Rice and Biryani",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Ghee Bhat",
+        "description": "Steamed ghee rice.",
+        "price": 293.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Rice and Biryani",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Steamed Rice",
+        "description": "Steamed ghee rice.",
+        "price": 251.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Rice and Biryani",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Appam [2 Pieces]",
+        "description": "",
+        "price": 133.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "South Indian",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Neer Dosa [3 Pieces]",
+        "description": "",
+        "price": 109.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "South Indian",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Dal Vada Chatar Patar",
+        "description": "Lentil fritters served with an in house salad and hummus.",
+        "price": 349.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Snacks",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Khow Suey Samosa",
+        "description": "Deconstructed khow suey that will blow your mind.",
+        "price": 487.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Snacks",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Masala Peanut",
+        "description": "Masala Peanut is a crunchy, savory snack made from roasted peanuts coated in ...read more",
+        "price": 127.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Snacks",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Dhaba Kachumber",
+        "description": "Dhaba Kachumber is a refreshing, tangy salad made with finely chopped cucumbers, tomatoes, ...read more",
+        "price": 167.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Accompaniments",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Roasted Papad",
+        "description": "Roasted Papad is a crispy, thin wafer made from lentil flour, simply roasted ...read more",
+        "price": 89.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Accompaniments",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Papad Basket",
+        "description": "Roasted Papad is a crispy, thin wafer made from lentil flour, simply roasted ...read more",
+        "price": 165.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Accompaniments",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Shahi Tukda",
+        "description": "Homemade bread triangle shallow fired in amul ghee and soaked in syrup loaded ...read more",
+        "price": 446.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Desserts",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Badami Pista Phirni",
+        "description": "[veg preparation] Badami Pista Phirni is a creamy, indulgent rice pudding made with ...read more",
+        "price": 446.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Desserts",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Mataka Rabri Gulab Jamun",
+        "description": "Mataka Rabri Gulab Jamun is a delicious fusion dessert where soft, syrup-soaked gulab ...read more",
+        "price": 404.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Desserts",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Patiala Lassi",
+        "description": "Patiala Lassi is a refreshing, creamy, and thick yogurt-based drink, traditionally served in ...read more",
+        "price": 154.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Drinks (Beverages)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Bhuna Jeera Chaas",
+        "description": "Bhuna Jeera Chaas is a tangy and refreshing buttermilk drink, flavored with roasted ...read more",
+        "price": 125.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Drinks (Beverages)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Veg Hyderabadi Biryani with Raita",
+        "description": "[Subject to Availability]",
+        "price": 605.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Ramadan Iftar Specials",
+          "spice_level": 1
+        }
+      }
+    ],
+    "dietary_options": [
+      "Non-Veg",
+      "Veg"
+    ],
+    "price_range": "₹2,000 for two people (approx.) with alcohol",
+    "address": "94, Ground & 1st Floor, Durga Bhawan, Mahatma Gandhi Marg, Mall Road, Hazratganj, Lucknow, Hazratganj, Lucknow, Lucknow, India",
+    "opening_hours": "Opens at 12noon",
+    "image_url": "https://b.zmtcdn.com/data/pictures/8/19657198/f0ee76464c6b98ab79f7815650cfa59f.jpeg",
+    "phone_number": "+918657768894",
+    "rating": "4.5",
+    "rating_count": 3634,
+    "features": "Cash and Cards accepted",
+    "cuisine": "North Indian, Lucknowi, Desserts, Beverages"
+  },
+  {
+    "name": "Curry Leaf",
+    "menu_items": [
+      {
+        "name": "Aloo Bonda [4 Pcs]",
+        "description": "Potato filling coated with gram flour batter and deep fried to get crispy",
+        "price": 190.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "All Day Long",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Aloo Paratha",
+        "description": "2 Pc. Served With Curd & Green Salad",
+        "price": 2352.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "All Day Long",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Appam With Veg Korma",
+        "description": "Appam is made with fermented rice batter and coconut milk and served with ...read more",
+        "price": 315.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "All Day Long",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Achari Paneer Tikka",
+        "description": "",
+        "price": 370.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Tandoori Special",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Dahi Kabab",
+        "description": "",
+        "price": 370.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Tandoori Special",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Dahi Ke Sholey",
+        "description": "",
+        "price": 325.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Tandoori Special",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Kanjivaram Idli [2 Pcs]",
+        "description": "BESTSELLER",
+        "price": 210.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Idli & Vada",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Spicy Onion Vada [4 Pc S]",
+        "description": "BESTSELLER",
+        "price": 225.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Idli & Vada",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Medu Vada [4 Pcs]",
+        "description": "BESTSELLER",
+        "price": 225.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Idli & Vada",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "DosaButter Masala Dosa",
+        "description": "Dosa",
+        "price": 295.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Dosa",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Butter Masala Dosa",
+        "description": "Butter flavour perfectly light, soft, crispy crepes stuffed with a savory, wonderfully spiced ...read more",
+        "price": 295.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Dosa",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Butter Plain Dosa",
+        "description": "Butter flavour plain Dosa is a thin crepe , a popular South Indian ...read more",
+        "price": 240.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Dosa",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Onion Coconut Uttapam",
+        "description": "Onion uttapam is a popular uttapam variant where these pancakes are topped with ...read more",
+        "price": 260.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Uttapam",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Panchratni Uttapam",
+        "description": "Five flavored mini pancakes are topped with Onion,Coconut,Tomato,Capsicum and Paneer.",
+        "price": 345.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Uttapam",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Spicy Paneer Uttapam",
+        "description": "It is a popular uttapam variant where these pancakes are topped with spicy ...read more",
+        "price": 310.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Uttapam",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Bisibele Bhath",
+        "description": "Aromatic, healthy & delicious dish made with rice, dal & bisibelebath powder",
+        "price": 310.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Rice Specials",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Coconut Rice",
+        "description": "Flavorful rice dish made with fresh grated coconut, tempering spices, curry leaves and ...read more",
+        "price": 240.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Rice Specials",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Curd Rice",
+        "description": "Soft cooked mushy rice is simply mixed with curd [Indian yogurt] and salt.",
+        "price": 290.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Rice Specials",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Extra Poori [2 Pieces]",
+        "description": "",
+        "price": 60.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Side Orders",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Appam [Per Pc]",
+        "description": "",
+        "price": 70.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Side Orders",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Baby Lachha [Per Pc]",
+        "description": "",
+        "price": 50.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Side Orders",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Desserts1 Scoop Vanilla Ice Cream +Chocolate Sauce",
+        "description": "Desserts",
+        "price": 851.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Dessert",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "1 Scoop Vanilla Ice Cream +Chocolate Sauce",
+        "description": "",
+        "price": 85.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Dessert",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "1 Scoop Vanilla Ice Cream +Strawberry Sauce",
+        "description": "",
+        "price": 85.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Dessert",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "JuicesPremium Fruit Juice",
+        "description": "Juices",
+        "price": 210.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Drinks (Beverages)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Premium Fruit Juice",
+        "description": "",
+        "price": 210.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Drinks (Beverages)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Seasonal Fruit Juice",
+        "description": "",
+        "price": 190.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Drinks (Beverages)",
+          "spice_level": 1
+        }
+      }
+    ],
+    "dietary_options": [
+      "Veg"
+    ],
+    "price_range": "₹500 for two people (approx.)",
+    "address": "C-6, Sector-F, Zone-12, Kapoorthala, Lucknow, Kapoorthala, Lucknow, Lucknow, 226024, India",
+    "opening_hours": "10am – 11pm (Today)",
+    "image_url": "https://b.zmtcdn.com/data/pictures/chains/6/18261976/6dbd01665e1893e0db6b993c1d5078d0.jpg",
+    "phone_number": "+919415500558",
+    "rating": "4.3",
+    "rating_count": 148,
+    "features": "\nDigital payments accepted",
+    "cuisine": "South Indian, Desserts, Shake, Beverages"
+  },
+  {
+    "name": "Dosa Planet",
+    "menu_items": [
+      {
+        "name": "MealsPuri Bhaji",
+        "description": "Meals",
+        "price": 210.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Indian Curries",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Puri Bhaji",
+        "description": "Popular and tasty indian deep-fried soft & puffy bread recipe made with wheat ...read more",
+        "price": 210.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Indian Curries",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Pav Bhaji",
+        "description": "Pav Bhaji is an Indian fast food consisting of a thick spicy vegetable ...read more",
+        "price": 210.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Indian Curries",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Tandoori Roti",
+        "description": "Tandoori roti is a flat bread which originated in the India.",
+        "price": 65.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Breads",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Naan",
+        "description": "Naan is a leavened flatbread mostly cooked in a tandoor.",
+        "price": 95.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Breads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Butter Naan",
+        "description": "",
+        "price": 115.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Breads",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Rice And NoodlesHakka Noodles",
+        "description": "Rice And Noodles",
+        "price": 240.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Chinese",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Hakka Noodles",
+        "description": "Soft noodles tossed with fresh, assorted vegetables in a simple and tasty dressing.",
+        "price": 240.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Chinese",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Chilli Garlic Noodles",
+        "description": "Flavor-packed preparation with noodles and assorted vegetables in a spicy and aromatic chilli ...read more",
+        "price": 250.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Chinese",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Fresh Lime",
+        "description": "You get the tangy kick of lemon followed by a sharp zing of ...read more",
+        "price": 120.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Drinks (Beverages)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Kesariya Milk",
+        "description": "",
+        "price": 110.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Drinks (Beverages)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Butter Milk",
+        "description": "The buttermilk is made by churning or blending yogurt and water with some ...read more",
+        "price": 105.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Drinks (Beverages)",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Sweet Corn",
+        "description": "",
+        "price": 150.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Soups",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Hot & Sour",
+        "description": "",
+        "price": 140.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Soups",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Manchow",
+        "description": "",
+        "price": 150.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Soups",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Dal Tadka",
+        "description": "",
+        "price": 280.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Dal",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Dal Makhani",
+        "description": "",
+        "price": 310.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Dal",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Pindi Chole",
+        "description": "",
+        "price": 290.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Dal",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "DosaPlain Dosa [Serves 1]",
+        "description": "Dosa",
+        "price": 185.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "South Indian",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Plain Dosa [Serves 1]",
+        "description": "A traditional South Indian dish made up of fermented black lentils and rice ...read more",
+        "price": 185.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "South Indian",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Masala DosaBESTSELLER",
+        "description": "Served with Sambhar",
+        "price": 210.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "South Indian",
+          "spice_level": 2
+        }
+      },
+      {
+        "name": "Khatta Bharwan Aloo",
+        "description": "",
+        "price": 199.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Barbeque",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Saunfyani Bharwan Paneer",
+        "description": "",
+        "price": 289.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Barbeque",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Dhundar Soya Tikka",
+        "description": "",
+        "price": 199.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Barbeque",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Meal CombosPav Bhaji Combo",
+        "description": "Meal Combos",
+        "price": 210.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Special Combos",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Pav Bhaji Combo",
+        "description": "",
+        "price": 210.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Special Combos",
+          "spice_level": 1
+        }
+      },
+      {
+        "name": "Chola Kulcha Combo",
+        "description": "",
+        "price": 220.0,
+        "attributes": {
+          "veg_nonveg": "Veg",
+          "category": "Special Combos",
+          "spice_level": 1
+        }
+      }
+    ],
+    "dietary_options": [
+      "Veg"
+    ],
+    "price_range": "₹700 for two people (approx.)",
+    "address": "Msg-19, Kapoorthala, Near Radhe Lal Sweets, Aliganj, Lucknow, Aliganj, Lucknow, Lucknow, India",
+    "opening_hours": "Opens at 11am",
+    "image_url": "https://b.zmtcdn.com/data/pictures/0/801960/5398f123cb902f1a449e2c2dae45a855.jpg",
+    "phone_number": "+915224238844, +918840673493",
+    "rating": "4.3",
+    "rating_count": 1604,
+    "features": "Cash and Cards accepted\nDigital payments accepted",
+    "cuisine": "South Indian, North Indian, Chinese, Desserts, Beverages, Ice Cream"
+  }
+]
