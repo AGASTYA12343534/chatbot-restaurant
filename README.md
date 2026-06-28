@@ -136,7 +136,7 @@ flowchart TD
 
 ### Clone the repository
 ```
-https://github.com/apoorv1110/Zomato-Gen-AI-Internship-Assignment.git
+https://github.com/AGASTYA12343534/chatbot-restaurant.git
 ```
 ### Install dependencies
 ```
