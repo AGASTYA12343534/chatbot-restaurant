@@ -1,3 +1,15 @@
+pinecone
+os
+dotenv
+typing 
+pydantic
 streamlit
-anthropic
-python-dotenv
+json
+bson
+asyncio
+motor
+bs4
+collections
+re
+playwright
+lxml

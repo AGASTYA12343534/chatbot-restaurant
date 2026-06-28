@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders
+venv/
+env/
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Python specific
+*.pyo
+*.pyd
+*.pdb
+
+# JSON databases or large knowledge bases (if needed)
+knowledgebase.json
+
+# Logs
+*.log

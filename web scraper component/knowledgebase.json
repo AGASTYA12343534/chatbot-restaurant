@@ -976,7 +976,7 @@
       },
       {
         "name": "Cheese Garlic Bread",
-        "description": "Toasted Bread Smothered In A Butrying Garlic Spread And Topped With Melted Cheese.",
+        "description": "Toasted Bread Smothered In A Buttery Garlic Spread And Topped With Melted Cheese.",
         "price": 349.0,
         "attributes": {
           "veg_nonveg": "Veg",
@@ -1793,7 +1793,7 @@
       {
         "name": "Dahi Kabab",
         "description": "",
-        "price": 370.0,
+        "price": 340.0,
         "attributes": {
           "veg_nonveg": "Veg",
           "category": "Tandoori Special",
