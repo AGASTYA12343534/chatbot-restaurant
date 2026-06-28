@@ -4,31 +4,22 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-uri=os.getenv("PINECONE_API_KEY")
-
-pc = Pinecone(api_key = uri)
-
-# Create a dense index with integrated inference
-# index_name = "llama-text-embed-v2"
 index_name = "chatboot"
 
-# pc.create_index_for_model(
-#     name=index_name,
-#     cloud="aws",
-#     region="us-east-1",
-#     embed={
-#         "model": "llama-text-embed-v2",
-#         "field_map": {
-#             "text": "text"  # Map the record field to be embedded
-#         }
-#     }
-# )
-
-index = pc.Index(index_name)
+def get_index():
+    uri = os.getenv("PINECONE_API_KEY")
+    if not uri or uri == "your_pinecone_api_key_here":
+        raise ValueError("Pinecone API key is missing or not configured. Please set PINECONE_API_KEY in your .env file.")
+    try:
+        pc = Pinecone(api_key=uri)
+        return pc.Index(index_name)
+    except Exception as e:
+        raise RuntimeError(f"Failed to initialize Pinecone Index: {e}")
 
 async def upsert_data(text: str, id: str, type_item: str) -> None:
     """Pinecone util function to upsert data into the db."""
     try:
+        index = get_index()
         if type_item == "menu":
             id = id + " menu"
         else:
@@ -54,6 +45,7 @@ async def fetch_data(
 ) -> list:
     """Pinecone util function to perform similarity search in the db."""
     try:
+        index = get_index()
         query_payload = {
             "inputs": {
                 "text": query
