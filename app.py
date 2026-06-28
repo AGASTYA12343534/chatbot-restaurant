@@ -2,6 +2,9 @@ import os
 import json
 import streamlit as st
 from anthropic import Anthropic
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
