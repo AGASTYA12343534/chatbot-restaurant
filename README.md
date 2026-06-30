@@ -211,7 +211,5 @@ Streamlit application will start running on local hoat and a UI like below will 
 - **Streamlit CLI** — Used to run and deploy the chatbot locally.
 - **Git & GitHub** — For version control and project collaboration.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
